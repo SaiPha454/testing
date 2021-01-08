@@ -1,1 +1,2 @@
-c is c
+c is c.
+It is after B 
