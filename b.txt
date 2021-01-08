@@ -1,1 +1,2 @@
-b is b
+b is b.
+B is after A and Before c.
